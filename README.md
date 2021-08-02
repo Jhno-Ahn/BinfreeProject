@@ -1,5 +1,8 @@
 # BinfreeProject
 
+> 프로젝트에 관한 자세한 설명
+https://github.com/Jhno-Ahn/BinFree-Detail/tree/main
+
 > 프로젝트 주제
 
 최근 서비스의 추세인, 지역간 소규모 중심의 matching service를 프로젝트를 통하여 이해하고자 함
